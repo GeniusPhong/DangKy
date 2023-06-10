@@ -1,0 +1,61 @@
+﻿body {
+}
+
+.dangnhap {
+    width: 700px;
+    margin: 0 auto;
+}
+
+.sub {
+    text-align: center;
+}
+
+.hang {
+    display: flex;
+    width: 1300px;
+    margin-bottom: 10px;
+}
+
+    .hang .thongtin {
+        flex: 15;
+    }
+
+    .hang .nhap {
+        flex: 85;
+    }
+
+    .hang .thongtin p {
+        margin-top: 0px;
+    }
+
+span {
+    color: red;
+}
+
+.hang .thongtin {
+    margin: 0px;
+}
+
+.bd {
+    border-left: 1px solid rgb(203, 196, 191);
+    padding-left: 7px;
+}
+
+input[type="tex"] {
+    background-color: rgb(249, 243, 243);
+    background: #D9D9D9;
+    border: 1px solid #000000;
+}
+
+input[type="button"] {
+    background-color: rgb(152, 24, 24);
+    color: white;
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: 10px;
+    border: none;
+}
+
+.b2 {
+    color: blue;
+}
